@@ -1,7 +1,7 @@
 ### Hi there 👋
 ### 🔭 I’m currently working on passing my uinversity exam.
 ### 🌱 I’m currently learning C++
-### 📫 You can reach me on [ telegram : (@)ReyhunKhosravi ] || [ ReyhunKhosravi@yahoo.com ]
+### 📫 You can reach me on [telegram : (@)ReyhunKhosravi] || [ReyhunKhosravi@yahoo.com]
 <!--
 **ReyhunKhosravi/ReyhunKhosravi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
